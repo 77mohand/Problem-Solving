@@ -1,0 +1,20 @@
+# Compiled Executables
+*.exe
+*.out
+*.app
+*.bin
+
+# C/C++ Object Files & Dynamic Libraries
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+
+# VS Code & Local IDE Settings
+.vscode/
+.idea/
+
+# OS Generated Files
+Thumbs.db
+.DS_Store
